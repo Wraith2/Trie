@@ -1,0 +1,207 @@
+Well, thank you. It's exciting to be here and have a chance to talk to you about where technology is going in the next decade.
+
+We talk about the period 2001 to 2010 as being the Digital Decade. That's something that we said early in the decade to highlight the fact that in 2001 most of our activities were not digitally driven; that is, the way we think about buying and selling, scheduling, communicating, it really was outside of the PC, digital phone, Internet realm. And it was our view that by the end of the decade that that would have changed, that whether it was the work you do or the things you do outside work, that you would take the digital approach for granted, and that although there would be some variation across age groups in terms of how deeply this was embraced, the notion that the digital approach was the mainstream would be a kind of commonsense, and talking about doing something in digital versus the non-digital way would almost be as quaint as talking about doing something with electricity or without electricity.
+
+Now, the reason for that belief was first of all an understanding of the fundamental technologies. Microsoft's very founding goes back to the recognition that the miracle of the microprocessor, the doubling in power every couple of years, would lead computing power to essentially be free. Certainly relative to what it was when Microsoft got started in 1975 it's almost free; that is, it's 10 million times less expensive to have computing than it is today. And the insight was that that would change the character of computing from being something that governments and large organizations would do to something that every individual would do.
+
+That pace, that exponential improvement is not slowing down. There are some physical limits that may make it challenging out in the eight to 10-year period, but whenever those have emerged, new approaches have managed to avoid those slow-downs.
+
+Likewise, the increase in storage, increase in optic fiber bandwidth, all of those things are enablers that let us take the magic of software, which is really a very key element in this, and allow it to deliver all of these different scenarios.
+
+Industry Megatrends
+
+If we think about this just what's happening in the next year or the next two years, I think it's always easy to miss the bigger trends. Everything is very evolutionary in the near term. PC sales are going up something like 10 percent a year, it was a little more than that last year, people are thinking maybe it will be a little bit less than that this year, but 10 percent off of a gigantic number, getting PCs out to huge, huge numbers of people.
+
+Actually, you have to be careful to think about units versus price, because the average price is actually coming down, and for a lot of people it's not just a single PC, it's multiple of these devices.
+
+The form factor that these devices exist in are changing, and changing in a way that brings in new usage patterns that are very important, particularly we'll focus on the reading scenario quite a bit towards the end here. Form factor makes a huge difference for reading. The fact that you can put something in your hand and subconsciously simply adjust your angle of viewing and your comfort so you're not fatiguing your muscles makes a huge difference in terms of being willing to do long term immersive reading off of a digital screen.
+
+And so we've been pushing for this idea of lighter, smaller, portable machines, but there's really a threshold you get to that you talk about as this ultra mobile or tablet type form factor where you don't use the keyboard as the key input technique, but rather you're simply reading, using a pen, using ink, using speech as a way to navigate that device.
+
+Every year that's getting better. Those devices are not in the mainstream, we have many technologies like this where we invest way in advance of the hardware being cheap enough and small enough, just to make sure our software will be there when it happens.
+
+The whole concept of Windows, the graphics interface was actually brought into the marketplace at a time when the performance was completely unacceptable, and there were a lot of people who thought graphics interface would never make it, but they missed the fact it was just a question of when, not if, and the learning curve that we had in terms of transitioning the software industry that hadn't existed before MS DOS, that taking that industry that we had built and moving them in a timely fashion up to graphical interface with the right tools, the right understanding, that was a huge bet, bet the company thing that Microsoft did in the 1990s that led to incredible success. In fact, almost ironically, some of the software companies who didn't believe in graphics interface, who had done some of the key applications, actually by not listening to us gave us the opportunity to grow our share of some of those key applications, because we embraced the new approach, the graphical Windows, and even the Macintosh approach for those applications in a deeper way than they did.
+
+So better ahead is a key thing for us, betting ahead of when the tablet is mainstream, betting ahead of when TV will be delivered over the Internet, which we call IPTV, betting ahead in videogaming for high definition and social type interactions that are just now emerging after we've made in that case over six years and many billions of dollars of investment to get that into the mainstream.
+
+So the form factors keep getting better. If you just look at a one or two-year timeframe, you might miss how radical this is. If you think out five years from now, the idea that every student in school instead of having textbooks will have a tablet device, the cost of which isn't that much more than if they'd spent that money buying the texts themselves, and yet the flexibility of the device with its wireless Internet connection means that the ability to interact, communicate, browse everything on the Web, take notes is just vastly superior to how that material was consumed traditionally. 
+
+If you take different types of materials like the encyclopedias that are the ultimate where the digital benefits of searching and updating and richness and multimedia has overwhelmed the print-based version of that.
+
+I'm good friends with Warren Buffet, whose company Berkshire actually owns the World Book Encyclopedia, and I often tease Warren that the only thing he has is that it looks so good on the shelf and it smells so good. (Laughter.) And I say we're working on the smell part, we'll get that down, and they'll be in trouble. But, in fact, over these last five or six years, that's a business that just fundamentally changed, changed you could almost say twice to CD-type delivery, and now much more Internet type delivery, because the benefits outweighed the negatives. And so as time goes on, you look at how you reduce those negatives, how you make the benefits of the sharing, the annotation, the things that can be done in that environment much better.
+
+Other big trends in our industry, year-by-year digitization of how all economic activity takes place, moving away from checks over time, moving away from paperwork over time, really saying that it's these records that are exchanged over the Internet that represent the actual business that gets done. 
+
+That's never been as easy as some people said it would be. Of course, in the late '90s people acted like that would happen overnight. In fact, business is very complex, the exceptional cases, the trust networks, the unstructured exchanges that take place, that capturing that and codifying that for business after business is in the process of taking place year by year. We're building up from just the basic connectivity of the Internet now to the deep understanding of all these business activities, and letting people write software that's very succinct, that captures their business approach, year by year the progress on that has been pretty fantastic. 
+
+In order to lay this foundation there are tough issues about security, management, ease of development that we've had to tackle, and that's why we find ourselves today with the largest R&D budget of any private company, that is spending well over $6 billion a year on these new developments. We announced yesterday that our R&D is going up even more, and some people are very enthused about those investments, and others are wondering why we think we need to invest so much, but it really comes back to the optimism we have about these advances. 
+
+One of the sets of advances that it's important to keep in mind is the way we interact with the machine. The keyboard will always be there, a very advantageous way of interacting, but ink recognition, speech recognition and visualization will be key elements as well. When you walk into your living room five years from now, the computer will see who's there in terms of what shows you might be interested in. When you sit down in your car, the idea of what songs you might be interested in or what contact lists or directions you would like, there will be recognition through your voice and visualization of who you are and therefore what you might be interested in doing. 
+
+Speech recognition has been a huge area of investment for us. The quality is going up, it will become a mainstream thing; ink recognition likewise, a fairly big breakthrough coming up there in the version that we deliver in [Windows] Vista. 
+
+So as you get smaller form factors, more natural interaction, more automatic connection, more user-centric, then this idea of digital approaches overwhelming traditional approaches becomes more obvious. 
+
+Emerging Markets Outpacing Developed Markets 
+
+It's a worldwide phenomenon. In fact, most things – this is kind of like anthropology, it's surprising how things are similar across technologies throughout the world. There are more of those things than differences. There are some interesting differences, for example, cell phone markets that get out ahead of fixed line markets or cell phone markets that actually get out ahead of the equivalent PC market, and so you have some mixing in terms of usage types, but, in fact, if you looked at software behavior you'd actually find slightly more difference across age groups globally than you would across country to country in terms of what's used. Sometimes there's a notion of, well, don't people use on average less powerful personal computers in China than the United States, and the answer is no, they do exactly in terms of richness, speed, performance exactly the same kind of thing. 
+
+Obviously the most expensive part of this whole picture is paying for the broadband communications cost. That's more than the hardware, the software, any of those things, and even there the progress globally has been pretty incredible, and that's even without some of the wireless breakthroughs that we'll have the benefit of in the next, say, four to eight years. 
+
+Broadband: A Global Phenomenon 
+
+The U.S. is at about 33 percent of households connected. Of connected households, 58 percent are broadband, but 33 percent overall. That actually puts us about 14th in a list of countries. Japan just passed us by. China is obviously lower than us in terms of percentage penetration, but they, as in most categories, are going to be the largest in the world, at any time this year they'll be the largest broadband market in the world. They're already substantially the biggest mobile market in the world, with more mobile phone users than people in the United States by quite a margin. And so that's a particularly interesting market. 
+
+If I had to pick one market that's the most amazing, I'd say South Korea. Once you get a 79-percent penetration, what that does to how people think about consuming video and news and socialization and buying and selling, you can sort of get a glimpse of the future by looking at how those trends have come together in South Korea. 
+
+Digital Lifestyle/Digital Workstyle 
+
+When we think about these advances, there is no clean boundary between how these advances help people at work versus help them at home. The Windows PC has always spanned that boundary, so the learning you get, whatever your kids can help teach you, you can use those tricks when you go in and use your Windows machine at work or vice versa. 
+
+From a business point of view we get a lot, Microsoft gets a lot of its revenue from digital work style; that is, helping people share, communicate, analyze. That will always be a bigger business, despite it being somewhat lower volume than digital lifestyle. But most of the technologies – speech recognition, security, making systems work automatically – they really span the boundary, and so the work style world is sort of the lifestyle world, plus an ability to deal with very structured, controlled information types that you don't see in the home environment. 
+
+In terms of lifestyle, we all know that music has changed, photography is changing, but you can't even think in terms of those categories. Instead of saying photography, we should talk about memories, the way we gather memories about our kids as they grow up, and have those automatically retained and navigable out into the future. 
+
+Our research group has a thing called SenseCam that you wear around your neck and it eliminates the idea of pausing to take a picture. It is literally during the course of your activities seeing when you're in new situations and taking pictures all day long whenever there might be something valuable, and then a piece of software is suggesting to you whenever you go and look at it, say at the end of the day, which of those are worth highlight in a particular way, so that the separation between photos and audio, the idea that you have to stop and take a picture and those things, the idea that you have to organize these things, software done the right way gets rid of that and just puts it in the real of, okay, all these memories and activities I have are being captured in a rich way. 
+
+In the business world that means taking things like people who meet one person in one location and a person in another location, and making that far more effective than it is today. The dream of videoconferencing really never came true, and we have some work over the next couple of years where with the right software we think that can be changed pretty radically, and the idea of not only participating in meetings together but recording those meetings, being able to navigate those, that will become a kind of commonsense. 
+
+Rich Pipeline of Solutions 
+
+Here in this next even 12-month period there's a lot of this R&D investment that results in new products coming out. Over the last year it's things like the Xbox 360, which is the high-definition gaming environment that our main challenge there has been dealing with catching up with demand on that; later this year a new version of Windows Vista is the name for that, and the version of Office that comes out at the same time as that. 
+
+In parallel with that, the richness of software on the phone that we and others are delivering is really connecting up so that schedules, music, notification, browsing, the phone is a full participant in this, and in no way is a competitor of the full screen device. The pocket-sized device you'll use in some cases, the tablet in others, the desktop in others, the meeting room sized screen in others, and making that what we call user-centric, that as you move between those experiences everything automatically shows up, so if you say you care about a certain sports score, that's a ticker on your TV set, that's on your phone, that's on your PC home screen without doing anything special when you set up that system. In fact, even if you go and borrow somebody's machine, go to a kiosk machine, as soon as you authenticate who you are, that description of what you're interested in comes down and automatically is just there for you. 
+
+So a lot of different products addressing all of these devices and form factors, and using an approach of having logic on the Internet, which we call Live, some people call it Internet platform, to really connect these together so that your information shows up to you automatically. To do user-centric we use this Live approach, because that connects to all your different devices. 
+
+2007 Office System 
+
+One particular thing that's fairly revolutionary comes out with the version of Office, Office 2007, and that's this idea of how you share information inside organizations. Historically, Office has, of course, been very popular as a creation tool, and people e-mail around spreadsheets and Word documents and PowerPoint presentations. When you want to work as a group on something, it's been very inefficient. After all, e-mail leads to tons of attachments being mailed around, some people want to see every update, some will want to review it at the end. It's very, very inconvenient, and your mailbox often gets overwhelmed by these things. And then if you want to add somebody to be involved, other people are replying all to that thread don't include those people, so we need a way of creating a shared space that you can collaborate in. 
+
+And yet in the business world that has to be very rich with the idea of searching and securing the information, controlling the approval processes; it requires something that's very inexpensive but very pervasive, in the same way that when Office came onto the PC itself, it brought a dramatically new price point for a set of applications. It changed people from saying, OK, which employees need word processing, which need spreadsheets to just thinking of that as a standard element. 
+
+Here what we're doing for collaboration is having this idea that it's just – and it's called SharePoint – it's just built-in, and so in the same way that when you hire a temporary worker they know Office today, these sharing templates that you build for meetings or projects, those are going to be well understood, people will know how to navigate those things, and so it's just whenever you start a project of a certain type, you pick a template. Within those templates there's all the richness of blogging, Wikipedia, discussion boards that come from sort of the consumer Internet, but here in the business environment the information is backed up and protected, you have certain rules in terms of who can do what, so it's the superset that fits the needs of the digital work style environment. 
+
+This in particular has been a huge investment. It's the biggest investment in a single piece of software ever, and that's because of the breadth of use, the expectation of compatibility that's in there. 
+
+It's only as we really get it in people's hands they'll appreciate the breadth of what's being done there, because we have to do things for IT people that make it easy to deploy and maintain, we have to do great things for developers, and we have to do things for digital lifestyle, digital work style, so photos and music are deeply richer here, the support for the hardware in terms of these mobility scenarios. 
+
+One of the elements we've been talking about is making the way you navigate information on the screen a lot richer, and the sort of nerdy term for this is the presentation foundation, Windows Presentation Foundation. In fact, we often abbreviate that as an acronym WPF. 
+
+In any case, the presentation foundation there is much richer in recognition of the fact that you want to spend lots of time reading information off the screen, you want to have it be as well adapted as it's been in the print environment. And that's not been possible, whether it's the browser, special code that people have done, the screen always looks a lot different. 
+
+Also the screen is unusual in that it's different sizes, and so one reader may be on a very big screen, one reader may be on a very small screen, and yet technology hasn't made that what we call dynamic layouts, being able to adjust to those things, it hasn't made it possible to do that. 
+
+Browsers are pretty frustrating today; you get one of these nice big screens, they don't really use that visual area because the way browser content is done, it's done to what we call lowest common denominator, so it can work everywhere. It hasn't been made easy to take advantage of that extra capability. 
+
+So built in to this next generation we have is presentation foundation. We actually can allow you to even install some of this on the older versions, but for most people they'll experience this as they move up to the new systems. Very rapidly when we do a new release, all the manufacturers switch to the new system, because we don't charge them any more than the previous system, we just count on the volume improvement there, and so in terms of its reliability, richness, security, very quickly the new machines you buy have these versions, and so that's hundreds of millions of copies getting into the marketplace every year, and then some upgrading that takes place on those existing systems. 
+
+Onscreen Reading 
+
+So let's focus in on reading in particular. The browser creates an environment that's really identifiable just as being inside that browser, with a lot of special chrome, a particular lot of things up on the screen, and it doesn't in terms of identity or fonts or special capabilities that you might want to offer up provide that type of extensibility. 
+
+So today we have two worlds that are kind of limiting in their own ways. We have print and we have the Web. The Web surprisingly isn't taking advantage of what can be done in this environment. And yet the effort, the very expensive part of creating the content, you should be able to share that across different ways of presenting it so that it's not the incremental expense of letting people do it in a better way, it's just a tiny thing, nothing that affects the people actually doing the news gathering and the writing and those things. 
+
+We've had this dream of on-screen reading for a long time. There's a lot of deep technology that goes into this in terms of the way we display text on the screen. You've probably heard the term ClearType that has to do with positioning the text even in these sub pixel boundaries, new fonts we've designed for that, ways we've tinted those so that they come out looking really great. It has a lot of different pieces in it, including this idea of dynamic layout, adopting to the screen in the right way. 
+
+And we've been experimenting on this a lot at Microsoft over the last several years, and then in the last year we've reached out, and one of the companies that was willing to come in and try this out and do some work with us on it was The New York Times. 
+
+And so let me now ask Arthur Sulzberger to come up and talk to us a little bit about what we're working on together, and what it might mean, and then he'll have one of his people come up and show you exactly what it looks like. 
+
+Well, as you've looked at this better online reading, how do you see it enhancing journalism, how do you see it as a positive addition? 
+
+ARTHUR SULZBERGER Jr. (Chairman, The New York Times Company): Well, first of all, it's a lot of what you just said, Bill. These folks, the editors of our papers and their predecessors have spent years and decades and generations making the experience of reading our newspapers a rich one, an engaging one. And then we are now working trying to produce our journalism on the Internet, and quite frankly we don't have the tools that we would like, we don't have the ability to make it as a compelling reading experience as we feel we ought to have. And our partnership, well, with you and with your colleagues is designed to really take the best of both of these worlds, to take the accessibility and the portability of print and marry it with the immediacy and the interactivity of the Web, and this is what we're doing together. 
+
+In a moment, as you noted, I'm going to have one of my colleagues show all of you what this is about, but in a nutshell it allows people to engage with our journalism much as they would in print. It allows them to, for example, not have to scroll down, but to turn the page. It allows them to know where they are in a much easier way when they get to a section, to a story. And one of my favorite elements, which we don't yet have built in, but I think we're working on it, is a gauge to let readers know how much of our newspaper they've read, and how much they have left to go. (Laughter.) 
+
+BILL GATES: Yeah, that's a great example of the kind of customization that can be built into a particular reading experience. 
+
+I know a lot of the dialogue has been about how the business model, reinforcing the brand, advertising, how the new delivery approaches can help with the business model challenges. How do you see that for the richer experience? 
+
+ARTHUR SULZBERGER, Jr.: So what's our business model? Well, a question on the minds of any number of us at this moment in time, Bill. First obviously is advertising, but let me back up a step. What is it we really are trying to achieve here? We are trying to make a product, we're trying to make a news experience that more fully engages our readers, that allows them to want to spend more time with us. We think that what we're producing here, and it's called Times Reader at the moment, that would be the New York Times – (laughter) – it will invite them in and invite them to enjoy the richness of our experience. And obviously when they spend more time with us, the advertisers are delighted by that, and we can charge them more for that money. But I think in addition to that, all of us need to be thinking about some form of a circulation revenue model. Times Select, which is the New York Times's version of that, will, of course, be a part of this process, and so we will have some paid, if you will, circulation. 
+
+But if this is as good a product as we think it can be, I think all of us need to be thinking that sooner or later advertising revenue is not going to grow by 30, 35 percent year after year after year, sooner or later it too will plateau, and at that point we're going to want to have some form of a stability of circulation revenue to help offset the inevitable cycle of advertising. 
+
+So we hope it will do a little bit of both, but in truth this is an experiment we're going to be spending a lot of time with you and your colleagues learning how readers adapt to this. 
+
+BILL GATES: And just a final point, you know, do you think a broad adoption of these things is actually a positive thing for The New York Times, and are there ways we can share some of the experience that we've had in terms of doing the work? 
+
+ARTHUR SULZBERGER, Jr.: Oh, absolutely. I think all of us in this room and our colleagues back at home now agree we must be platform agnostic. We must follow our readers where they want to be. All of us know that our readership has grown dramatically over the last few years; we can't yet monetize it the way we would like. But as journalists what we want are people to read and read us and read our journalism; we think that's critical to democracy among other small things. 
+
+But this work we're doing together, the New York Times and Microsoft is going to be unveiled I think in the beginning of next year, at which point the learnings that we have, the learnings you have I think will be shared much more widely, so this is a great partnership, and we're excited by it. 
+
+And now under the theory that a thousand words is worth a picture, let me ask Tom Bodkin, who is the assistant managing editor and design director of The New York Times to just come up and show you what Bill and I have been talking about. Tom? 
+
+TOM BODKIN: Thank you. Good afternoon. 
+
+I've designed ink-on-paper publications for the past 35 years, and I'm passionately committed to that medium. But when I started working on this project probably about six months ago, I realized very quickly that we had really made a breakthrough, that this was a moment that we had actually found a platform with Microsoft software and hardware like this, a platform that you could create something on that really had the look and feel of a publication, something you could truly read. 
+
+Even though I'm very proud of our recent Web site design, the current Web technology makes it difficult to achieve the intimacy of a product you page through, a product that has a sequence you can follow, a beginning and an end. 
+
+What I'm going to shows you is the first electronic experience that I feel comes close to capturing the comfort and the convenience of reading a paper publication. I'm going to switch to a computer that's connected to the projector so you can see the sophisticated and flexible display that Bill was talking about. 
+
+One of the things the application does, which is quite complex and really impressive, is that it will reformat the content automatically to fit any size screen. It will reflow the type and it will resize the images and ads as necessary. So I'll just show you here briefly expanding this, shrinking it, and you see everything reflows, the pictures get bigger, more type is brought in. 
+
+Now I'm going to show you, if you click on a story, you can click on any of these stories on the homepage, and you can see some of the advanced composition features, and these are the things that make the heart of our designers. You get full hyphenation and justification, you have a newspaper like column structure, and you have finely rendered type. What you see here are the fonts that we use in the paper; it actually looks like the New York Times. 
+
+The reader supports a variety of appealing options for ad placement. I'm just going to scroll through and find an ad. There's one. It melds the high impact of print with the interactivity of the Web. You can click on this ad and it opens in a window. It's fully animated. You can click on buttons on the ad. And keep in mind that this is totally offline, there's no Internet connection here, this is on my machine, it could be on this machine, it is on this machine. That's pretty exciting. And you can close it. 
+
+I'm going to go back to the homepage. I just want to say that you're going to see this ad repeat over and over. Part of the reason for that is so that you can see how it automatically reformats to fit available space. It's really just one ad but you'll see it in very different shapes. 
+
+One of the things I find most appealing about the format is that it offers a variety of ways to read the content to closely mirror how people read a paper product. I've shown you how you can click on a story on a display page, but you can also use the keyboard, I'm just using a single arrow key, and you can page through the entire paper in a very natural and intuitive way. 
+
+Some of the tablets have a toggle switch on the side so that with one hand you can hold the machine and page through. It's actually easier than thumbing through a magazine. 
+
+And now if you prefer to jump to a specific section, you can click on one of the tabs on the top of the page and go to the display world page, U.S. page, New York region, and it's just like scanning the section front of a broadsheet, but it's easier. 
+
+And if you like to scan headlines, you can click on the arrows alongside the section name, and you see all the headlines in the section. You see a bunch of them are gray; that means I've already read the story, so you can sort of keep track that way. And you can just click on any of the headlines and go directly to that story. 
+
+And then there are people who like to just peruse the photos, looking for something that grabs them, and this application makes that easy. You go to this tab here, the more tab, you click on news and pictures. And now you've got access to every photograph in that day's paper, and you can scroll through them any speed you want, fast, and you can stop at one that looks particularly interesting, I like this guy, and click on it and it brings you directly to the story. How great is that? 
+
+Now I can show you some of the features that are available when you're on a story page. This is where you get some of the impressive typographic features. One of the things you can do is if you want – and this is particularly good if you're working on a very small machine, you can maximize the amount of type on the page by hiding the navigation. See, I'm getting rid of the navigation and bringing it back. More type is automatically flowed in. 
+
+And then you can go down to the bottom here and click on this scrolling bar, and you can change the size of the type very simply. And as you change the size of the type, you see the type reflows, the column measure changes, pictures come in and out. And this is good if you're working on a small machine you obviously want the type a little bigger, if you're working on a big machine you may want the type smaller. It makes it all very easy. 
+
+And now I'm going to show you another feature that also replicates the paper world, but much more conveniently, you can annotate. Here I'm on a story, I can click on this little bug here, I can highlight the text that I'm going to talk about, and then I can open a little window and type in whatever I want. And now you've got an annotation. You can close it and it hangs onto this story. You can go to another story, come back to this story. You click on the annotation and it's back. 
+
+You can then save this story and its annotation to a clipping file. You can e-mail it to a friend if you're online, or you can post it to a blog. 
+
+I want to go back to the homepage now, show my navigations, go back to the homepage. 
+
+The Times Reader runs on Microsoft's new [Windows] Vista operating system that will be introduced in January. I'm going to close the application now and go to the [Windows] Vista desktop. And one of the great features that [Windows] Vista provides is an enhanced local search, and that will include content of the Times Reader and anything else that's on your hard drive. So to do the search click here, put a search term in. Let's try theater. And you get all of the theater hits. Many of them happen to be from the Times Reader. And if you click on one of those, the machine automatically will launch the reader, and bring you directly to that story. It's really pretty incredible. 
+
+I find that the tablet device has best captured the appealing qualities of a print publication: the portability and the ease of reading. They come in all shapes and sizes, and they get lighter every day. Here are two other tablets, I just showed you one before. This one, I can unplug it, does not need to be plugged in. That's a very small one that actually is going to be available I think in two weeks. Here's a medium sized one. 
+
+And now this is the one, let me go back to the one that I use. And this machine you can just use a little pen-like device, and I'm going to tap on the homepage, bring me back to the homepage. I can go to a story. I can click through the story with just a button on the machine, and then it brings me to the next story. It's just like reading a book. Go back to the homepage, go to other sections. It has the comfort of reading. You can hold that, as Bill said, holding it in your hands, my experience with this thing has made a huge difference. You can move it around and put it anywhere you want, it's a totally different feeling from reading something that's anchored to your desk. 
+
+And you can also run the application through a huge monitor like this big plasma display that we have over on your left. 
+
+I've been reading the paper on this tablet for several weeks now, and I've found it a very satisfying experience. As a reader I find it natural and effortless, as a designer the application gives me the tools to create a product with a clear visual identity, and the natural pacing and flow of a print periodical. It looks like The New York Times, it has the interactivity of the Web, yet it can be used offline, and it reads as comfortably as a print publication. I've become a total convert. 
+
+Thank you. (Applause.) 
+
+BILL GATES: Well, thanks. That was a super demo. 
+
+Well, obviously we think this is a milestone in terms of online reading; a lot more to be done before that's a mainstream phenomenon, but what we've got here that is unique is the dynamic layout in a way that hasn't been done before using underneath there's a form of templating for the different sizes, the quality of the topography, and that this will just be built-in to the high volume platform, and so anybody who wants to do this, you don't have to go license some application and get people to download something and learn some new user interface, it's just going to be there. And the next step on this is by the end of the summer we'll have a developer's kit, which will let other publications, newspapers, magazines, whoever wants to do these things, go in, do it with their fonts, do it with their templates, think about what special things they'd like to create around it. 
+
+And so I think it's a milestone in online reading. To be clear, this is an application that we basically have as a fundamental feature of the operating system, so whatever your business model is in terms of advertising or content or anything like that, we're not involved at all in that, this is just an enabling tool to bring in the online experience. 
+
+And the key point is that the marginal cost of flowing your content into this, once you get the system in place, you're not having to author it in a new or different way; in fact, you should think of one content creation machine that's feeding print, this optimized online experience, the Windows Presentation Format experience, and the browser. And for the user it's very seamless between going from the browser to this, going back and forth. 
+
+The points about annotation and search are valuable because that starts to get you thinking about, well, what's the value added in this digital environment: obviously up to date, obviously to diverse links, but even something like, hey, I think I saw it in The New York Times a few weeks ago, the search engine would know exactly what you'd looked at out of that source and would be immediately able to scope and find that for you. 
+
+And each publication will decide in terms of sending long annotations to other people, what the rights model for that is. Hopefully there will be some that emerge that are very common and straightforward for people to use. But the presentation, the fonts, and those things around your content availability and how you do that, that's all under your control. 
+
+And so I would suggest that as these form factors are getting better, there will be in a year by year way this move to online reading, and yet that can be done and supported, that you can get out in front on that without some dramatic additional investment, in fact, simply leveraging what's already there. 
+
+Looking Ahead 
+
+The point about this is not so much a specific one, but that these changes in behaviors are happening. If I was focusing on TV, I'd be talking about the elimination of channels, and how there's so much video content that's interesting today, that you're not able to get it. If it's a lecture on your hobby, if it's the sports event that your kid participated in, it doesn't today fit into your TV navigational experience. With this thing called IPTV that people like AT&T are using our software platform to roll out, all the video you're interested in will show up in your guide, and it won't be related to when things show up. As long as it's part of your profile of interest, it will be there. And the way that the ads show up, they'll be targeted to you according to things that you might be interested in, and software will make it a richer experience. If you have a certain amount of time to watch something, the important stuff will be compressed so it's there. When you watch a news show, if you don't care about hockey, that piece will be eliminated, some piece you're more interested in will be extended. 
+
+So the broadcast experience, which is sort of analogous to mass printing as well, it's accepted certain compromises in terms of what that is like that now with this very digital approach we can start to mold that in ways that preserve what was good but also are more targeted and more customized. So we're seeing that across all types of media: TV, photographs, music, and online print moving to on-screen reading. 
+
+We do see software enablement of this being a key thing, doing it once so that it's available for everybody who wants it, and then just getting it out there so that people don't have to charge extra for those things, and so we're excited to see how the content world takes this platform, how our hardware partners take these new form factors, and how we get those things out into the mainstream. 
+
+And I'd say that's why the business of doing this enabling software continues to be I think the most interesting business that there is. 
+
+Thank you. 
